@@ -8,3 +8,4 @@ pydantic
 langchain-google-genai
 ollama
 langchain-ollama
+langchain-tavily
